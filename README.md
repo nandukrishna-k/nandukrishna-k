@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nandukrishna-k ("NANDUKRISHNA K")
-- 👀 I’m interested in Application Development and Web Develpoment 
-- 🌱 I’m currently pursuing Computer Science and Engineering at Hindusthan College of Engineering and Technology
+- 👀 I’m interested in Application Development and Web development 
+- 🌱 I’m a Computer Science Engineer 
 - 💞️ I’m looking to collaborate on ... 🤔
 - 📫 How to reach me @ nandhuk956@gmail.com
 
